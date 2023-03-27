@@ -1,7 +1,7 @@
 # Mission4_ARLISS
 これはCanSatチームFUSiONがMission4でARLISS2023への出場を目的として使用するリポジトリです。
 
-こちらにFUSiON Mission2で使用したCodeを保管してください。
+こちらにFUSiON Mission4で使用したCodeを保管してください。
 
 編集方法
 
